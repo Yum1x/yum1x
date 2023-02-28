@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Rytter</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yum1x&label=Profile%20views&color=0e75b6&style=flat" alt="yum1x" /> </p>
 
-- 🔭 I’m currently working on [#CVR](https://discord.gg/vidarealgg)
+- 🔭 I’m currently working on [#CPX](https://discord.gg/complexogg)
 
 - 📫 How to reach me **hello@officialyu.me**
 
